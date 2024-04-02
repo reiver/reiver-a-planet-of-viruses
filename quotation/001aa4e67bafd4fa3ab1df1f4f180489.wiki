@@ -1,28 +1,12 @@
-<html>
+wiki/1
 
-<meta name="dc.creator" content="Carl Zimmer" />
-<meta name="dc.date" content="2011" />
-<meta name="dc.language" content="en" />
-<meta name="dc.source" content="Carl Zimmer, “A Planet of Viruses”, Introduction" />
-<meta name="dc.type" content="quotation" />
-
-<body>
-<blockquote>
-<p>
-The very word ‘virus’ began as a contradiction.
-We inherited from the Roman Empire, where it meant, at once, the venom of a snake or the semen of a man.
-Creation and destruction in one word.
-</p>
-<p>
-Over the centuries, ‘virus’ took on another meaning: it signified any contagious substance that could spread disease.
-</p>
-<p>
-[…]
-</p>
-<p>
-‘Virus’ only began to take on its modern meaning as the nineteenth century came to a close, thanks to an agricultural catastrophe [in the Netherlands on tobacco farms].
-</p>
-</blockquote>
-</body>
-
-</html>
+― The very word ‘virus’ began as a contradiction.
+― We inherited from the Roman Empire, where it meant, at once, the venom of a snake or the semen of a man.
+― Creation and destruction in one word.
+―
+― Over the centuries, ‘virus’ took on another meaning: it signified any contagious substance that could spread disease.
+―
+― […]
+―
+― ‘Virus’ only began to take on its modern meaning as the nineteenth century came to a close, thanks to an agricultural catastrophe [in the Netherlands on tobacco farms].
+⸺ Carl Zimmer (2011), “A Planet of Viruses” (1st edition), Introduction
